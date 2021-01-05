@@ -1,0 +1,113 @@
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.bgimage
+{
+	background-color: white;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 130vh
+
+}
+
+.menu
+{
+
+	width: 100%;
+	height: 100px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.leftmenu
+{
+	width: 20%;
+	line-height: 100px;
+	float: left;
+	background-color:transparent;
+	text-shadow: 6px 6px 4px #000000;
+}
+
+.leftmenu h4
+{
+	padding-left: 70px;
+	font-weight: bold;
+	color: white;
+	font-size: 25px;
+	font-family: sans-serif;
+
+}
+
+
+
+.rightmenu
+{
+	width:70%;
+	height: 100px;
+	float: right;
+	background-color:transparent; 
+
+}
+
+.rightmenu ul
+{
+	margin-left: 100px;
+
+}
+
+.rightmenu ul li 
+{
+	font-family:  sans-serif;
+	display: inline-block;
+	list-style: none;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 110px;
+	margin-left: 70px;
+
+}
+.button
+{
+	position: absolute;
+	left: 40%;
+
+}
+
+.s3text
+{
+  margin:0px;
+  position: absolute;
+  top: 85%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+}
+.ss3text
+{
+	 margin:0;
+  position:absolute;
+  top: 87%;
+  left: 6%;
+  right: 3%;
+  /*left: 5%;*/
+  
+}
+.s4text
+{
+  margin:0px;
+  position: absolute;
+  top: 85%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+}
+.ss4text
+{
+	 margin:0;
+  position:absolute;
+  top: 87%;
+  left: 77%;
+  right: 3%;
+  /*left: 5%;*/
+  
+}
